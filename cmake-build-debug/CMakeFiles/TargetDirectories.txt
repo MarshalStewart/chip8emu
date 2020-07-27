@@ -1,0 +1,3 @@
+D:/Workspace/chip8emu/cmake-build-debug/CMakeFiles/chip8emu.dir
+D:/Workspace/chip8emu/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Workspace/chip8emu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
