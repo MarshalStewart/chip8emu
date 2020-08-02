@@ -6,7 +6,47 @@
 
 #IncludeRegexTransform: 
 
+D:/Workspace/chip8emu/chip8.cpp
+iostream
+-
+cstdlib
+-
+unistd.h
+-
+cstring
+-
+chip8.h
+D:/Workspace/chip8emu/chip8.h
+graphics.h
+D:/Workspace/chip8emu/graphics.h
+
+D:/Workspace/chip8emu/chip8.h
+
+D:/Workspace/chip8emu/graphics.cpp
+iostream
+-
+cstdlib
+-
+unistd.h
+-
+cstring
+-
+graphics.h
+D:/Workspace/chip8emu/graphics.h
+
+D:/Workspace/chip8emu/graphics.h
+
 D:/Workspace/chip8emu/main.cpp
 iostream
 -
+cstdlib
+-
+unistd.h
+-
+cstring
+-
+graphics.cpp
+D:/Workspace/chip8emu/graphics.cpp
+chip8.cpp
+D:/Workspace/chip8emu/chip8.cpp
 
